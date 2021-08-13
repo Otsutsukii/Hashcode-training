@@ -14,6 +14,7 @@ class  car(object):
         self.is_assigned = False
         self.rewards = 0
         self.available_time = 0
+        self.test_vscode = 0
 
 
 class Ride(object):
